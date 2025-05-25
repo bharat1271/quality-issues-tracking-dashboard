@@ -54,6 +54,12 @@ _Additional dashboard screenshots are available in the `/images` folder._
 
 ---
 
+## 🎥 Dashboard Walkthrough Video
+
+Download and watch the demo video: [quality-dashboard-demo.mkv](video/quality-dashboard-demo.mkv)
+
+---
+
 ## 🗃️ Folder Contents
 
 | File/Folder | Description |
