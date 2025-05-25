@@ -56,7 +56,7 @@ _Additional dashboard screenshots are available in the `/images` folder._
 
 ## 🎥 Dashboard Walkthrough Video
 
-Download and watch the demo video: [Quality-Dashboard-Demo.mp4](videos/Quality-Dashboard-Demo.mp4)
+Download and watch the demo video: [Quality-Dashboard-Demo.mp4](Videos/Quality-Dashboard-Demo.mp4)
 
 ---
 
